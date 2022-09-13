@@ -1,21 +1,22 @@
 # avalucio-inicial-m031t
 
-Nom i cognoms:
+
+Nom i cognoms: Jaime Martinez
 ¿Quienes tres siguientes idiomas de programación están más orientados a desenvolver aplicaciones web empresariales ?
 
 a-C/C++
 
 b-php
 
-c-Java
+c-Java :)
 
 ¿El programa ha dejado de comenzar a estudiar el DAW? ¿En? Quant de temps?
 
-Respuesta:
+Respuesta: 
 
 ¿Qué es compilar un programa?
 
-Respuesta:
+Respuesta: Reunirlo todo
 
 Què és un llenguatge interpretat i en què es la diferencia d'un llenguatge compilat?
 
@@ -31,7 +32,7 @@ Respuesta:
 
 Explica que es un algoritmo.
 
-Respuesta:
+Respuesta: Hallar la solucion obvia a un problema
 
 En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
 
